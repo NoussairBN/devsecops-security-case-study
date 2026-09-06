@@ -1,0 +1,12 @@
+flowchart LR
+    A[Changement de code] --> B[Secrets]
+    A --> C[Dépendances]
+    A --> D[Analyse statique]
+    B --> E[Environnement de test]
+    C --> E
+    D --> E
+    E --> F[DAST métier]
+    E --> G[Scan dynamique générique]
+    F --> H[Décision]
+    G --> H
+

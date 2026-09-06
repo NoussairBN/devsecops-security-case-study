@@ -1,0 +1,30 @@
+# Fichiers locaux et temporaires
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.bak
+*.swp
+
+# Documents et preuves internes
+*.pdf
+*.zip
+*.7z
+*.har
+*.pcap
+*.pcapng
+
+# Secrets et configuration locale
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Captures non validées
+private/
+internal/
+screenshots/
+evidence/
+
