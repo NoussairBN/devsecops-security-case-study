@@ -13,6 +13,8 @@ La mission a suivi un cycle complet : cadrage, audit, analyse des risques,
 remédiation, revalidation et intégration de contrôles de sécurité dans une
 pipeline CI/CD.
 
+![Cycle complet d'un projet d'audit et DevSecOps](assets/project-cycle-devsecops.png)
+
 ## Objectifs
 
 - cartographier une surface d'attaque autorisée ;
@@ -92,3 +94,8 @@ ou détail d'infrastructure. Voir [CONFIDENTIALITY.md](CONFIDENTIALITY.md).
 Élève ingénieur en Génie Cyber Défense et Systèmes de Télécommunications
 Embarqués.
 
+## Marques
+
+Les noms et logos des outils cités appartiennent à leurs propriétaires
+respectifs. Leur présence est uniquement descriptive et n'implique aucune
+affiliation ou approbation.
