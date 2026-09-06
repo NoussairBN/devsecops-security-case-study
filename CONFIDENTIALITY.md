@@ -5,9 +5,15 @@
 Cette étude de cas démontre des compétences professionnelles sans reproduire
 les actifs confidentiels de l'organisation d'accueil.
 
+## Mention publique autorisée
+
+Le nom **MONARK IT** est mentionné uniquement comme organisme d'accueil du
+stage. Cette mention factuelle ne révèle ni le produit évalué ni son niveau de
+sécurité et n'implique aucune approbation officielle de cette publication.
+
 ## Éléments volontairement absents
 
-- nom du produit et identité de l'organisation ;
+- nom du produit et détails internes de l'organisation ;
 - code source et extraits reconnaissables ;
 - lien ou contenu du dépôt privé ;
 - noms de branches, commits, SHA et pull requests ;
@@ -25,8 +31,8 @@ les actifs confidentiels de l'organisation d'accueil.
 3. Recréer les diagrammes avec des composants génériques.
 4. Utiliser uniquement des données synthétiques.
 5. Examiner les métadonnées des documents et images.
-6. Obtenir une autorisation explicite avant de citer l'organisation ou le
-   produit.
+6. Ne pas ajouter le nom du produit, un logo ou un nouvel élément de marque
+   sans autorisation explicite.
 7. Retirer immédiatement tout contenu signalé comme sensible.
 
 ## Portée
@@ -34,4 +40,3 @@ les actifs confidentiels de l'organisation d'accueil.
 Les informations présentées décrivent une méthode et un retour d'expérience.
 Elles ne permettent pas de reconstituer l'environnement évalué et ne doivent
 pas être utilisées pour attribuer un niveau de sécurité à une organisation.
-

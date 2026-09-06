@@ -2,14 +2,16 @@
 
 ## Contexte général
 
-La mission concernait une application web interne manipulant des identités,
-des rôles et des processus métier. L'objectif n'était pas seulement de produire
-une liste de constats, mais de construire une boucle durable reliant audit,
-correction et prévention des régressions.
+La mission a été réalisée chez **MONARK IT**, à Marrakech, et concernait une
+application web interne manipulant des identités, des rôles et des processus
+métier. L'objectif n'était pas seulement de produire une liste de constats,
+mais de construire une boucle durable reliant audit, correction et prévention
+des régressions.
 
-Le contenu public reste volontairement indépendant de l'organisation et du
-produit concernés. Les technologies, flux et actifs sont décrits uniquement au
-niveau nécessaire pour expliquer la démarche professionnelle.
+Le nom de l'organisme d'accueil est mentionné à titre professionnel. Le produit,
+les technologies internes, les flux et les actifs restent décrits uniquement
+au niveau nécessaire pour expliquer la démarche sans révéler d'information
+confidentielle.
 
 ## Problématique
 
@@ -42,4 +44,3 @@ Une amélioration était considérée comme démontrée lorsque le scénario ini
 n'était plus reproductible, que l'état métier restait cohérent et que l'usage
 légitime demeurait disponible. Les scénarios prioritaires devaient ensuite être
 transformés en contrôles de non-régression automatisables.
-

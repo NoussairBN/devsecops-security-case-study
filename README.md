@@ -1,13 +1,14 @@
 # Audit de sécurité et démarche DevSecOps
 
-> Étude de cas anonymisée — stage de cybersécurité de deux mois
+> Étude de cas anonymisée — stage de cybersécurité de deux mois chez MONARK IT
 
 ## Présentation
 
-Ce dépôt documente une mission de sécurisation menée sur une application web
-interne. Il présente la méthode suivie, les choix techniques, les contrôles
-automatisés et les compétences mobilisées, sans divulguer le code source, les
-données, l'architecture détaillée ou l'identité du produit concerné.
+Ce dépôt documente une mission de sécurisation menée chez **MONARK IT** sur une
+application web interne. Il présente la méthode suivie, les choix techniques,
+les contrôles automatisés et les compétences mobilisées, sans divulguer le
+code source, les données, l'architecture détaillée ou l'identité du produit
+concerné.
 
 La mission a suivi un cycle complet : cadrage, audit, analyse des risques,
 remédiation, revalidation et intégration de contrôles de sécurité dans une
@@ -84,6 +85,7 @@ certification de sécurité ni une affirmation d'absence de vulnérabilité.
 
 ## Confidentialité
 
+La mention de MONARK IT sert uniquement à identifier l'organisme d'accueil.
 Cette documentation ne contient volontairement aucun extrait du dépôt privé,
 commit, branche, pull request, domaine, endpoint, identifiant, capture interne
 ou détail d'infrastructure. Voir [CONFIDENTIALITY.md](CONFIDENTIALITY.md).
@@ -92,7 +94,7 @@ ou détail d'infrastructure. Voir [CONFIDENTIALITY.md](CONFIDENTIALITY.md).
 
 **Bouanani Noussair**  
 Élève ingénieur en Génie Cyber Défense et Systèmes de Télécommunications
-Embarqués.
+Embarqués. Stage de fin d'année réalisé chez MONARK IT à Marrakech.
 
 ## Marques
 
