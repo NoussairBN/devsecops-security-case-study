@@ -14,7 +14,7 @@ La mission a suivi un cycle complet : cadrage, audit, analyse des risques,
 remédiation, revalidation et intégration de contrôles de sécurité dans une
 pipeline CI/CD.
 
-![Cycle complet d'un projet d'audit et DevSecOps](assets/project-cycle-devsecops.png)
+![Cycle complet d'un projet d'audit et DevSecOps réalisé chez MONARK IT](assets/project-cycle-devsecops-monarkit.png)
 
 ## Objectifs
 
